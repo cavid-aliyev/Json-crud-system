@@ -1,0 +1,41 @@
+{"fifacup":
+[
+  {"player": "Muller",
+    "year": 30,
+    "country": "Germany",
+    "active_player_status": true
+  },
+  {
+    "player": "Ronaldo",
+    "year": 35,
+    "country": "Portugal",
+    "active_player_status": true
+  },
+  {
+    "player": "Rivaldo",
+    "year": 25,
+    "country": "Brazil",
+    "active_player_status": false
+  },
+  {
+    "player": "Messi",
+    "year": 31,
+    "country": "Argentina",
+    "active_player_status": 1
+  }
+],
+  "coaches": [
+    {
+      "person": "Zidan",
+      "year": 41,
+      "country": "France",
+      "active_player_status": false
+    },
+    {
+      "person": "Pep",
+      "year": 49,
+      "country": "Spain",
+      "active_player_status": false
+    }
+  ]
+}
