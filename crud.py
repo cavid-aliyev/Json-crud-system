@@ -5,7 +5,7 @@ def getDataFromDb(_fileName):
     with open(_fileName, "r") as f:
         return json.load(f)
 
-cup = getDataFromDb("db.json")
+cup = getDataFromDb("playersinformation.json")
 
 def getDataFromUser():
     name = input("Player: ")
