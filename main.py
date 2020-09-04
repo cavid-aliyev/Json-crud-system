@@ -4,7 +4,7 @@ def getDataFromDb(_fileName):
     with open(_fileName, "r") as f:
         return json.load(f)
 
-cup = getDataFromDb("db.json")
+cup = getDataFromDb("playersinformation.json")
 
 #simple funksiya ile json filellarda emeliyyatlar apaririq
 def playersStats(year):
