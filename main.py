@@ -13,5 +13,5 @@ def playersStats(year):
         print(f"{stat['player']} | {stat['country']}")
 
 
-you = int(input("Please write your footballer: "))
+you = int(input("Please write your footballer year: "))
 playersStats(you)
